@@ -1,1 +1,30 @@
+sections:
+  - secnum: 1
+    instructor: Prof. James
+    day: Mon
+    time-start: 12:30pm
+    time-end: 3:00pm
+    room: Reiss 281
+  - secnum: 2
+    instructor: Prof. James
+    day: Mon
+    time-start: 3:30pm
+    time-end: 6:00pm
+    room: Car Barn 202
+  - secnum: 3
+    instructor: Prof. Jeff
+    day: Thu
+    time-start: 3:30pm
+    time-end: 6:00pm
+    room: Car Barn 203
+  - secnum: 4
+    instructor: Prof. Jeff
+    day: Thu
+    time-start: 6:30pm
+    time-end: 9:00pm
+    room: Car Barn 204
+weeks:
+  - weeknum: 1
+    title: "Intro"
+    footer: "W01: Intro"
 
